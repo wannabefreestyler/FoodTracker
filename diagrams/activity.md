@@ -5,7 +5,7 @@
 2. [Выбор ингредиентов](#2)
 3. [Запись о приёме пищи](#3)
 
-### 1. Добавление блюда=<a name="1"></a>
+### 1. Добавление блюда<a name="1"></a>
 
 ![Выбор ингредиентов](https://github.com/wannabefreestyler/FoodTracker/blob/f2b061aa7b2d5d13c0aed879beb088b3db3b9861/diagrams/img/ADD.png)
 
