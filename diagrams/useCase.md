@@ -1,6 +1,6 @@
 # Диаграмма вариантов использования
 
-![Диаграмма вариантов использования](https://github.com/vladmoiseev/Vshop/blob/master/diagrams/img/useCase.png)
+![Диаграмма вариантов использования](https://github.com/wannabefreestyler/FoodTracker/blob/f2b061aa7b2d5d13c0aed879beb088b3db3b9861/diagrams/img/varient%20diagram.png)
 
 # Глоссарий
 
